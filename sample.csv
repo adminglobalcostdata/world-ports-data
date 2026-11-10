@@ -1,0 +1,101 @@
+port_id,name,country_name,lat,lon,harbor_size,harbor_type,chan_depth_m,cargo_depth_m,tidal_range_m,locode
+wpi-7950,Maurer,United States,40.533333,-74.25,Very Small,River (Natural),11.0,11.0,1.5,
+wpi-47620,Iharana,Madagascar,-13.35,50.0,Very Small,Coastal (Natural),14.0,4.9,8.0,
+wpi-47020,Chake Chake,Tanzania,-5.25,39.766667,Small,Coastal (Natural),14.0,,,
+wpi-47005,Mjimwema Terminal,Tanzania,-6.816667,39.366667,Very Small,Open Roadstead,23.2,,3.0,
+wpi-44804,Delta Terminal,Turkey,36.85,36.166667,Very Small,Open Roadstead,,,,
+wpi-50350,Cinta Oil Terminal,Indonesia,-5.5,106.233333,Very Small,Open Roadstead,23.2,,,
+wpi-38330,Europa Point,Gibraltar,36.133333,-5.35,Medium,Coastal (Breakwater),12.5,7.9,1.0,
+wpi-7010,New Harbor,United States,43.866667,-69.483333,Very Small,Coastal (Natural),6.4,1.8,2.7,
+wpi-12900,Dtse / Gegua Oil Terminal,Brazil,-22.816667,-43.15,Medium,Open Roadstead,11.0,,1.0,
+wpi-48104,Sharmah,Saudi Arabia,27.933333,35.25,Very Small,Coastal (Natural),23.2,,,
+wpi-9210,Norsworthy,United States,29.733333,-95.2,Very Small,River (Natural),11.0,9.4,0.3,
+wpi-6750,Minturn,United States,44.15,-68.45,Very Small,Coastal (Natural),1.8,,3.0,
+wpi-6820,Criehaven,United States,43.833333,-68.883333,Very Small,Coastal (Breakwater),1.8,1.8,2.7,
+wpi-46691,North Point,"Saint Helena, Ascension, and Tristan da Cunha",-7.883333,-14.366667,Small,Open Roadstead,,,,
+wpi-57433,Bongkot Terminal,Thailand,8.05,102.333333,Very Small,Open Roadstead,23.2,,,
+wpi-52350,Donggala,Indonesia,-0.65,119.733333,Very Small,Open Roadstead,23.2,1.8,4.0,
+wpi-42415,Larimna,Greece,38.566667,23.283333,Very Small,Coastal (Natural),11.0,11.0,2.0,
+wpi-38420,Hornillo,Spain,37.4,-1.55,Very Small,Coastal (Natural),14.0,4.9,1.0,
+wpi-40245,Melilli Oil Terminal,Italy,37.116667,15.25,Very Small,Open Roadstead,21.6,,1.0,
+wpi-47942,Al Khair Oil Terminal,Sudan,19.583333,37.25,Small,Coastal (Natural),,,,
+wpi-6670,Corea,United States,44.4,-67.966667,Very Small,Coastal (Natural),1.8,1.8,3.4,
+wpi-59550,Margosatubig,Philippines,7.583333,123.166667,Very Small,Coastal (Natural),17.1,3.4,5.0,
+wpi-45635,Arzew El Djedid,Algeria,35.816667,-0.25,Small,Coastal (Breakwater),7.9,,,
+wpi-45822,Karabane,Senegal,12.566667,-16.666667,Very Small,River (Natural),3.4,3.4,1.0,
+wpi-14175,Caleta Mina Elena,Chile,-52.683333,-71.9,Very Small,Coastal (Natural),,,,
+wpi-6970,Monhegan,United States,43.766667,-69.316667,Very Small,Coastal (Natural),3.4,3.4,2.7,
+wpi-6710,Northeast Harbor,United States,44.3,-68.283333,Very Small,Coastal (Natural),3.4,1.8,,
+wpi-6800,Bucks Harbor,United States,44.333333,-68.733333,Very Small,Coastal (Natural),6.4,3.4,,
+wpi-6830,Matinicus,United States,43.866667,-68.883333,Very Small,Coastal (Breakwater),6.4,1.8,2.7,
+wpi-49875,Malong Marine Terminal,Malaysia,4.633333,104.816667,Very Small,Open Roadstead,23.2,,3.0,
+wpi-63090,Admiralty Bay,Antarctica,-62.083333,-58.416667,Very Small,Coastal (Natural),23.2,,,
+wpi-63110,Melchior Harbor,Antarctica,-64.316667,-63.0,Very Small,Coastal (Natural),4.9,,,
+wpi-7900,Grasselli,United States,40.616667,-74.2,Small,River (Natural),9.4,9.4,1.5,
+wpi-44807,Aksaz Limani,Turkey,36.833333,28.383333,Small,Coastal (Natural),23.2,,,
+wpi-46239,Egina Oil Terminal,Nigeria,3.066667,6.7,Very Small,Open Roadstead,23.2,7.9,,
+wpi-47625,Antsohim Bondrona,Madagascar,-13.083333,48.833333,Very Small,Coastal (Natural),7.9,7.9,,
+wpi-42180,Ayios Nikolaos,Greece,37.983333,23.533333,Very Small,Coastal (Breakwater),9.4,7.9,,
+wpi-43384,Borusan Fertilizer Jetty,Turkey,40.416667,29.1,Very Small,Coastal (Natural),,6.4,,
+wpi-63070,Ellefsen Harbor,Antarctica,-60.733333,-45.033333,Very Small,Coastal (Natural),11.0,,,
+wpi-63120,Andersen Harbor,Antarctica,-64.316667,-62.933333,Very Small,Coastal (Natural),23.2,,,
+wpi-11360,Baie Du Marigot,France,18.066667,-63.083333,Very Small,Open Roadstead,6.4,4.9,2.0,
+wpi-11372,Coles Bay Oil Terminal,Sint Maarten,18.016667,-63.083333,Small,Open Roadstead,,,1.0,
+wpi-48057,Zafarana Terminal,Egypt,29.166667,32.683333,Very Small,Open Roadstead,,,,
+wpi-60205,Suizhang Gang,China,40.066667,121.05,Very Small,Open Roadstead,11.0,12.5,,
+wpi-49685,Yetagun Marine Terminal,Burma,13.05,96.85,Very Small,Open Roadstead,23.2,,1.0,
+wpi-47989,Zeit Bay Lpg Terminal,Egypt,27.8,33.566667,Very Small,Open Roadstead,3.4,,1.0,
+wpi-51800,Tanjungredeb,Indonesia,2.15,117.483333,Small,River (Natural),4.9,4.9,,
+wpi-59575,Santa Clara,Philippines,7.783333,122.683333,Very Small,Coastal (Natural),9.4,6.4,,
+wpi-11048,Punta Nizao Oil Terminal,Dominican Republic,18.2,-70.2,Small,Open Roadstead,,,1.0,
+wpi-57490,Phsar Ream,Cambodia,10.5,103.6,Very Small,Coastal (Natural),4.9,3.4,,
+wpi-50932,Tanjung Gerem,Indonesia,-5.966667,105.983333,Very Small,Open Roadstead,12.5,,,
+wpi-48341,Ras Al Ghar,Saudi Arabia,26.9,49.866667,Very Small,Coastal (Breakwater),9.4,11.0,,
+wpi-7890,Port Socony,United States,40.55,-74.25,Small,River (Natural),9.4,7.9,1.5,
+wpi-11005,Puerto Botado,Dominican Republic,19.2,-69.45,Very Small,Coastal (Natural),4.9,7.9,,
+wpi-63100,Port Lockroy,Antarctica,-64.816667,-63.5,Very Small,Coastal (Natural),20.1,,3.0,
+wpi-51500,Tarempah,Indonesia,3.216667,106.216667,Very Small,Coastal (Natural),3.4,3.4,,
+wpi-52440,Tahuna,Indonesia,3.616667,125.483333,Very Small,Coastal (Natural),3.4,3.4,3.0,
+wpi-63080,Scotia Bay,Antarctica,-60.75,-44.716667,Very Small,Coastal (Natural),23.2,,,
+wpi-47690,Port Est,Reunion,-20.933333,55.316667,Small,Coastal (Breakwater),12.5,11.0,1.0,
+wpi-42790,Vrakhonisis Kallonis,Greece,39.083333,26.083333,Very Small,Coastal (Natural),17.1,1.8,2.0,
+wpi-45515,Port Methanier,Algeria,36.883333,6.95,Small,Coastal (Breakwater),17.1,9.4,,
+wpi-9665,Puerto Este,Honduras,16.083333,-86.9,Very Small,Coastal (Natural),9.4,,,
+wpi-35835,Port Du Havre-Antifer,France,49.65,0.15,Small,Coastal (Breakwater),23.2,,7.0,
+wpi-7020,Pemaquid Beach,United States,43.866667,-69.533333,Very Small,Coastal (Natural),12.5,1.8,2.7,
+wpi-40750,Porto Di Malamocco,Italy,45.333333,12.316667,Very Small,Canal or Lake,11.0,7.9,1.0,
+wpi-46544,Psvm Terminal,Angola,-6.25,10.733333,Very Small,Open Roadstead,23.2,23.2,,
+wpi-47695,Port Ouest,Reunion,-20.933333,55.283333,Small,Coastal (Breakwater),9.4,7.9,1.0,
+wpi-9230,Sinco,United States,29.716667,-95.233333,Very Small,River (Natural),11.0,9.4,0.3,
+wpi-14020,Prince Olav Harbor,South Georgia and South Sandwich Islands,-54.033333,-37.15,Very Small,Coastal (Natural),,,,
+wpi-7070,Robinhood,United States,43.85,-69.733333,Very Small,River (Natural),12.5,1.8,2.7,
+wpi-6980,Port Clyde,United States,43.916667,-69.25,Very Small,Coastal (Natural),3.4,4.9,2.7,
+wpi-42440,Stilis,Greece,38.916667,22.616667,Very Small,Coastal (Natural),3.4,4.9,,
+wpi-14040,Stromness Harbor,South Georgia and South Sandwich Islands,-54.15,-36.7,Very Small,Coastal (Natural),,,2.0,
+wpi-45845,Victoria,Guinea,10.816667,-14.566667,Very Small,River (Natural),4.9,,14.0,
+wpi-7000,Friendship,United States,43.966667,-69.333333,Very Small,Coastal (Natural),6.4,3.4,2.7,US FSP
+wpi-6880,Bucksport,United States,44.566667,-68.783333,Very Small,River (Natural),9.4,9.4,3.4,US BUP
+wpi-9240,Houston,United States,29.75,-95.283333,Large,River (Tide Gates),14.0,7.9,,US HOU
+wpi-12772,Aratu,Brazil,-12.783333,-38.5,Small,Open Roadstead,17.1,11.0,3.0,BR ARB
+wpi-10010,Matthew Town,The Bahamas,20.95,-73.683333,Very Small,Open Roadstead,3.4,12.5,2.0,BS MAT
+wpi-7190,Newburyport,United States,42.816667,-70.866667,Very Small,River (Natural),3.4,1.8,2.4,US ZMP
+wpi-10430,Ceiba Hueca,Cuba,20.216667,-77.316667,Very Small,Open Roadstead,9.4,7.9,1.0,CU CEI
+wpi-60250,Dalian,China,38.916667,121.666667,Large,Coastal (Breakwater),23.2,17.1,3.0,CN DAL
+wpi-48076,Elat,Israel,29.55,34.95,Small,Coastal (Natural),23.2,9.4,1.0,IL ETH
+wpi-47990,El Ghardaqa,Egypt,27.216667,33.85,Very Small,Coastal (Natural),4.9,,1.0,EG HRG
+wpi-47630,Antsiranana,Madagascar,-12.266667,49.283333,Small,Coastal (Breakwater),14.0,7.9,2.0,MG DIE
+wpi-47130,Kismaayo,Somalia,-0.366667,42.55,Very Small,Coastal (Breakwater),7.9,7.9,2.0,SO KMU
+wpi-47100,Mombasa,Kenya,-4.066667,39.666667,Medium,Coastal (Tide Gates),14.0,9.4,3.0,KE MBA
+wpi-45820,Dakar,Senegal,14.683333,-17.433333,Medium,Coastal (Breakwater),11.0,4.9,2.0,SN DKR
+wpi-48465,Kharg Island Oil Terminal,Iran,29.233333,50.333333,Small,Open Roadstead,23.2,20.1,2.0,IR KHK
+wpi-48450,Bandar-E Mahshahr,Iran,30.466667,49.183333,Small,River (Natural),11.0,,4.0,IR MRX
+wpi-41820,Itea,Greece,38.433333,22.416667,Very Small,Open Roadstead,9.4,6.4,,GR ITA
+wpi-41550,Dubrovnik,Croatia,42.666667,18.083333,Small,Coastal (Natural),23.2,3.4,1.0,HR DBV
+wpi-39590,Livorno,Italy,43.542,10.29,Large,Coastal (Breakwater),12.5,4.9,1.0,IT LIV
+wpi-39025,Monaco,Monaco,43.733333,7.416667,Very Small,Coastal (Breakwater),7.9,11.0,,MC MON
+wpi-37770,La Coruna,Spain,43.366667,-8.4,Small,Coastal (Natural),17.1,15.5,4.0,ES LCG
+wpi-37120,Le Verdon,France,45.55,-1.05,Small,River (Natural),12.5,15.5,10.0,FR LVE
+wpi-42345,Astakos,Greece,38.483333,21.1,Small,Coastal (Natural),,3.4,,GR AST
+wpi-41800,Mesolongion,Greece,38.366667,21.416667,Very Small,Coastal (Breakwater),4.9,4.9,,GR MEL
+wpi-45350,Abu Khammash,Libya,33.066667,11.816667,Very Small,Coastal (Natural),7.9,,,LY ABK
+wpi-45819,M Bao Oil Terminal,Senegal,14.716667,-17.4,Very Small,Open Roadstead,,14.0,1.0,SN MBA

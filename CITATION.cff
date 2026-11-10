@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and credit the original source."
+title: "World Ports Data: 3,800 ports, depths and facilities"
+type: dataset
+authors:
+  - family-names: "Bousquet"
+    given-names: "Henri"
+abstract: "Search 3,804 world ports from the NGA World Port Index: coordinates, harbor size and type, channel/anchorage/cargo depths, tidal range, pilotage, tugs, repair and drydock capability. Embedded data, no scraping, pay per record."
+url: "https://apify.com/phonic_lily/world-ports-data"
+repository-code: "https://github.com/adminglobalcostdata/world-ports-data"
+date-released: 2026-11-10
+keywords:
+  - open-data
+  - dataset
+  - json
+  - jsonl
+  - apify
+  - apify-actor
+  - data-api
+  - world

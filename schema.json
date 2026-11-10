@@ -1,0 +1,53 @@
+{
+ "columns": [
+  {
+   "name": "port_id",
+   "description": "Stable port identifier (wpi-<index number>)."
+  },
+  {
+   "name": "name",
+   "description": "Port name."
+  },
+  {
+   "name": "country_name",
+   "description": "Country."
+  },
+  {
+   "name": "lat",
+   "type": "number",
+   "description": "Latitude, decimal degrees."
+  },
+  {
+   "name": "lon",
+   "type": "number",
+   "description": "Longitude, decimal degrees."
+  },
+  {
+   "name": "harbor_size",
+   "description": "NGA harbor size class."
+  },
+  {
+   "name": "harbor_type",
+   "description": "NGA harbor type."
+  },
+  {
+   "name": "chan_depth_m",
+   "type": "number",
+   "description": "Channel depth in metres, null if unknown."
+  },
+  {
+   "name": "cargo_depth_m",
+   "type": "number",
+   "description": "Cargo pier depth in metres, null if unknown."
+  },
+  {
+   "name": "tidal_range_m",
+   "type": "number",
+   "description": "Tidal range in metres, null if unknown."
+  },
+  {
+   "name": "locode",
+   "description": "UN/LOCODE when known."
+  }
+ ]
+}
